@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="editor.exportDialog.defaults.authorName">
+    <organization identifier="editor.exportDialog.defaults.authorName">
+      <title>VistA Medication Order Processing - Completing Pending Orders</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>VistA Medication Order Processing - Completing Pending Orders</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/file-0QunYskuCFPDs_DE.png"/>
+      <file href="images/file-1iVONDSYHi9ar4kA.png"/>
+      <file href="images/file-3yFsGTh5AIZPJj2l.png"/>
+      <file href="images/file-46G5wxdPHnHOY-HC.png"/>
+      <file href="images/file-4pDz9VFLsHfnO-rq.png"/>
+      <file href="images/file-7oW9SBD8QFQhPzwc.png"/>
+      <file href="images/file-8irAsBD4O6a2BlCL.png"/>
+      <file href="images/file-CM4r3BTC0RhFruWs.png"/>
+      <file href="images/file-DjaySPA8-tGHEVtq.png"/>
+      <file href="images/file-EXI2dmkLR4DmyxZv.png"/>
+      <file href="images/file-HSqF1CPF3yFBJTtQ.png"/>
+      <file href="images/file-RoJVUFmZhfToB4Uq.png"/>
+      <file href="images/file-TtwzPr18OV6pkUHu.png"/>
+      <file href="images/file-Uy1-FEy9rLbIiZk3.png"/>
+      <file href="images/file-a6NjX4NIEBnK-ozR.png"/>
+      <file href="images/file-hwRJKhEMmaovbiIi.png"/>
+      <file href="images/file-noQw-O8FUG4_fIky.png"/>
+      <file href="images/file-qS9_gvnlpThAFw7A.png"/>
+      <file href="images/file-qYPtYNpVQloLo70f.png"/>
+      <file href="images/file-tXPb7yLOMYNvWnuO.png"/>
+      <file href="images/file-u4h6BIK71XCF_YW2.png"/>
+      <file href="index.html"/>
+    </resource>
+  </resources>
+</manifest>
